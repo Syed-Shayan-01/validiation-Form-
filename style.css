@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+form{
+  position: relative;
+  top: 130px;
+  width: 30%;
+  left: 35%;
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px #000000;
+  outline: none;
+  cursor: pointer; 
+}
+
+.heading{
+  text-align: center;
+  margin: 0 5px 30px 7px;
+  background-color: #0f0e0e;
+  color: #fff;
+  font-size: 2rem;
+  border-radius: 12px;
+  font-weight: bolder;
+}
+
+.mb-1{
+  margin-top: 19px;
+font-weight: bolder;
+}
+.mb-2{
+  margin-top: 19px;
+font-weight: bolder;
+
+}
+
+.mb-3{
+  margin-top: 19px;
+font-weight: bolder   ;
+}
+
+.btn:hover{
+  color: #0f0e0e;
+  background-color: aliceblue;
+  border-color: #000000;
+}
